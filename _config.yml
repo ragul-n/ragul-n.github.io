@@ -2,7 +2,7 @@
 title: "ragul n"
 description: "economist"
 baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: "ragul-n.github.io"
+url: ""
 author: "ragul n"
 
 # Build settings
