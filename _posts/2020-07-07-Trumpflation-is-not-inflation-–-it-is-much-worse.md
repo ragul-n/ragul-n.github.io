@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Trumpflation is not inflation — it is much worse
 date: 2025-03-16 21:45
 ---
 Paul Krugman gave a primer on [inflation](https://paulkrugman.substack.com/p/inflation)—and a little bit about trumpflation—on his Substack. I highly recommend reading this post, if not all of his regular posts. However, I have a few disagreements with his take on trumpflation, along with one caveat. First, the caveat: we[^1] macroeconomists don't understand inflation very well. If you find that shocking, I refer you to this [excellent post](https://noahpinion.blog/p/macroeconomics-is-still-in-its-infancy) by Noah Smith on macroeconomics.
