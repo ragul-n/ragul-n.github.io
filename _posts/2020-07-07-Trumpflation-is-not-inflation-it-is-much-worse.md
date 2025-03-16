@@ -4,8 +4,6 @@ title: Trumpflation is not inflation — it is much worse
 date: 2025-03-16 21:45
 category: 
 author: raguln
-tags: [inflation]
-summary: 
 ---
 Paul Krugman gave a primer on [inflation](https://paulkrugman.substack.com/p/inflation)—and a little bit about trumpflation—on his Substack. I highly recommend reading this post, if not all of his regular posts. However, I have a few disagreements with his take on trumpflation, along with one caveat. First, the caveat: we[^1] macroeconomists don't understand inflation very well. If you find that shocking, I refer you to this [excellent post](https://noahpinion.blog/p/macroeconomics-is-still-in-its-infancy) by Noah Smith on macroeconomics.
 
@@ -28,9 +26,6 @@ Not many macroeconomists discount worries about inflation expectations the way I
 ##### What Should the Fed Do?
 
 The Fed is facing a dilemma that’s very real—not just nominal. As I said, the consumer price index will rise. The Fed might increase the interest rates to combat inflation. Then, it risks jeopardizing the reorganization of businesses required to offset the increase in real costs. If not managed well, this could lead to a recession. All I have is, good luck![^3]
-
-
-
 
 ---
 {: data-content="footnotes"}
