@@ -22,7 +22,7 @@ Not many macroeconomists discount worries about inflation expectations the way I
 
 ### What Should the Fed Do?
 
-The Fed is facing a dilemma that’s very real —not just nominal. As I said, the prices will go up. The Fed might increase the interest rates but, then it risks jeopardizing the reorganization of businesses required to offset the increase in real costs. If Fed cuts interest rates to support businesses, it risks stimulating aggregate demand too much[^3]. If not managed well, this could lead to a recession or another bout of inflation. 
+The Fed is facing a dilemma that’s very real —not just nominal. As I said, the prices will go up. The Fed might increase the interest rates but, then it risks jeopardizing the reorganization of businesses required to offset the increase in real costs. If Fed cuts interest rates to support businesses, it risks stimulating aggregate demand too much[^3]. If not managed well, this could easily lead to a recession or another bout of inflation. 
 
 Best of luck to the Fed—they’re going to need it!
 
