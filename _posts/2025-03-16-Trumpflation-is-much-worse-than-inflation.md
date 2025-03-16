@@ -6,7 +6,7 @@ Paul Krugman gave a primer on [inflation](https://paulkrugman.substack.com/p/inf
 
 ### On “Trumpflation”
 
-Trump tariffs will surely raise prices. But not every price increase is inflations. Sometimes, it will be a increase in real prices. Taxes, like Trump's tariffs, are exactly the sort of things that will cause real prices to increase. This is different from a general rise in prices and wages–what we call inflation. On the face of it, an increase in real and nominal price might look the same, but there are a few important differences. Inflation typically pushes both wages and prices higher—unlike increases in real prices.
+Trump tariffs will surely raise prices. But not every price increase is inflation. Sometimes, it will be a increase in real prices. Taxes, like Trump's tariffs, are exactly the sort of things that will cause real prices to increase. This is different from a general rise in prices and wages–what we call inflation. On the face of it, an increase in real and nominal price might look the same, but there are a few important differences. Inflation typically pushes both wages and prices higher—unlike increases in real prices.
 
 A permanent increase in tariffs should be seen as a shock to productivity (or TFP, in economist speak). This shouldn’t come as a total surprise if you’re familiar with Mill's idea of “trade as a form of technology, akin to the railroads.” A shock to productivity—and thus tariffs—will always drive up the real price.  Broad-based tariffs will raise the real cost of everything and make everyone poorer, at least in the short run.  
 
