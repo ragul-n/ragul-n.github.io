@@ -6,13 +6,13 @@ Paul Krugman gave a primer on [inflation](https://paulkrugman.substack.com/p/inf
 
 ### On “Trumpflation”
 
-Trump tariffs will surely raise prices. But not every price increase is inflation. Sometimes, it will be an increase in real prices. Taxes, like Trump's tariffs, are exactly the sort of thing that will cause real prices to increase. This is different from a general rise in prices and wages–what we call inflation. On the face of it, an increase in real and nominal price might look the same, but there are a few important differences. Inflation typically pushes both wages and prices higher—unlike increases in real prices.
+Trump tariffs will surely raise prices, but not every price increase is inflation. Sometimes, it is simply an increase in real prices. Taxes—such as tariffs—drive real prices up. This is different from a general rise in prices and wages (or inflation). On the face of it, an increase in real and nominal price might look similar, but there are a few important differences. Inflation typically raises both wages and prices, whereas real price increases do not
 
-A permanent increase in tariffs should be seen as a shock to productivity (or TFP, in economist speak). This shouldn’t come as a total surprise if you’re familiar with Mill's idea of “trade as a form of technology, akin to the railroads.” A shock to productivity—and thus tariffs—will always drive up the real price.  Broad-based tariffs will raise the real cost of everything and make everyone poorer, at least in the short run.  
+A permanent increase in tariffs should be seen as a shock to productivity (or TFP, in economist speak). This shouldn’t come as a total surprise if you’re familiar with Mill's idea of “trade as a form of technology, akin to the railroads.” A shock to productivity—and thus tariffs—will always drive up real prices.  Broad-based tariffs will raise the real cost of everything and make everyone poorer, at least in the short run.  
 
 Trump's hope is that in the medium-to-long run, businesses will reorganize themselves to overcompensate for the short-term costs of tariffs. Has it ever happened before? No, but every once in a while, some countries try it out—just in the hope that it might work for them.
 
-Just to be clear, I'm not saying prices won't rise. They will rise. But it should not be interpreted as inflation[^2]. 
+To be clear: prices will rise, but this shouldn’t be mistaken for inflation[^2]. 
 
 ### What About Inflation Expectations?
 
