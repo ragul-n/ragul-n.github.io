@@ -6,9 +6,9 @@ Paul Krugman gave a primer on [inflation](https://paulkrugman.substack.com/p/inf
 
 ### On “Trumpflation”
 
-Trump tariffs will surely raise prices, but not every price increase is inflation. Sometimes, it is simply an increase in real prices. Taxes—such as tariffs—drive real prices up. This is different from a general rise in prices and wages (or inflation). On the face of it, an increase in real and nominal price might look similar, but there are a few important differences. Inflation typically raises both wages and prices, whereas real price increases do not
+Trump tariffs will surely raise prices, but not every price increase is inflation. Sometimes, it is simply an increase in real prices. Taxes—such as tariffs—drive real prices up. This is different from a general rise in prices and wages (i.e. inflation). On the face of it, an increase in real and nominal price might look similar, but there are a few important differences. Inflation typically raises both wages and prices, whereas real price increases do not.
 
-A permanent increase in tariffs should be seen as a shock to productivity (or TFP, in economist speak). This shouldn’t come as a total surprise if you’re familiar with Mill's idea of “trade as a form of technology, akin to the railroads.” A shock to productivity—and thus tariffs—will always drive up real prices.  Broad-based tariffs will raise the real cost of everything and make everyone poorer, at least in the short run.  
+A permanent increase in tariffs should be seen as a shock to productivity (or TFP, in economist speak). This shouldn’t come as a total surprise if you’re familiar with Mill's idea of “trade as a form of technology, akin to the railroads.” A shock to productivity—and thus tariffs—will always increase real prices.  Broad-based tariffs will raise the real cost of everything and make everyone poorer, at least in the short run.  
 
 Trump's hope is that in the medium-to-long run, businesses will reorganize themselves to overcompensate for the short-term costs of tariffs. Has it ever happened before? No, but every once in a while, some countries try it out—just in the hope that it might work for them.
 
@@ -16,13 +16,13 @@ To be clear: prices will rise, but this shouldn’t be mistaken for inflation[^2
 
 ### What About Inflation Expectations?
 
-Inflation expectations are rising. But expectations alone are not enough to sustain inflation. Think about it: if people start demanding higher wages because of higher expectations, businesses have to earn —or at least expect to earn— more than before to pay them. This wage-price spiral, as economist call it, also needs aggregate demand to rise. This is unlikely to happen when real costs are going up. 
+Inflation expectation is rising. But expectation alone is not enough to sustain inflation. Think about it: if people start demanding higher wages because of higher expectations, businesses have to earn —or at least expect to earn— more than before to pay them. This wage-price spiral, as economist call it, requires aggregate demand to rise. That's unlikely to happen when real costs are going up. 
 
-Not many macroeconomists discount worries about inflation expectations the way I just did —maybe for good reasons. For those interested in academic discussion on inflation expectations and relevant policy implications, I recommend [this paper](https://www.federalreserve.gov/econres/feds/files/2021062pap.pdf) on the role of inflation expectations by Jeremy Rudd.
+Not many macroeconomists discount worries about inflation expectations the way I just did — maybe for good reasons. For those interested in academic discussion on inflation expectations and relevant policy implications, I recommend [this paper](https://www.federalreserve.gov/econres/feds/files/2021062pap.pdf) on the role of inflation expectations by Jeremy Rudd.
 
 ### What Should the Fed Do?
 
-The Fed is facing a dilemma that’s very real —not just nominal. As I said, the prices will go up. The Fed might increase the interest rates but, then it risks jeopardizing the reorganization of businesses required to offset the increase in real costs. If Fed cuts interest rates to support businesses, it risks stimulating aggregate demand too much[^3]. If not managed well, this could easily lead to a recession or another bout of inflation. 
+The Fed is facing a dilemma that’s very real — not just nominal. As I said, the prices will go up. The Fed might increase the interest rates but, then it risks jeopardizing the reorganization of businesses required to offset the increase in real costs. If Fed cuts interest rates to support businesses, it risks stimulating aggregate demand too much[^3]. If not managed well, this could easily lead to a recession or another bout of inflation. 
 
 Best of luck to the Fed—they’re going to need it!
 
