@@ -54,10 +54,16 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    7. macroeconomics: a reading list [🔗](https://blog.theleapjournal.org/2012/02/macroeconomics-reading-list.html#gsc.tab=0)
    8. macroeconomics after lucus, sargent (2024) [🔗](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2024/Sargent_paper.pdf) 
    9. origins of [euler equation](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=8%20References-,History,studies%20of%20the%20tautochrone%20problem.) for dummies (not economists) [🔗](https://youtu.be/Q10_srZ-pbs?si=Uol9pOQjjTOC9omD)
-2. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
-3. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
-4. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
-5. heterogenous agent models: 
+2. non-technical books: 
+   1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949) 
+   2. big ideas in macroeconomics, kartik athreya
+ [🔗](https://mitpress.mit.edu/9780262528306/big-ideas-in-macroeconomics/) 
+   3. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
+
+3. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
+4. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
+5. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
+6. heterogenous agent models: 
    1. durdhal's adv. macro course [^druedahl] [🔗](https://sites.google.com/view/numeconcph-advmacrohet/home?authuser=)
    2. ch. 10, phdmacrobook  
    3.  ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
@@ -68,11 +74,6 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    1. chris carroll's notes [🔗](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
    2. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
    3. vivaldo mende's adv. macro notes  [🔗](https://sites.google.com/iscte-iul.pt/advancedmacroeconomics2/slides-readings/0-computation-introduction-to-julia?authuser=0)
-7. other books: 
-   1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949) 
-   2. big ideas in macroeconomics, kartik athreya
- [🔗](https://mitpress.mit.edu/9780262528306/big-ideas-in-macroeconomics/) 
-   3. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
 
 #### measure theory
 
