@@ -69,7 +69,6 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    3.  ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
    4.  jesús fernández-villaverde notes [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
 
-
 6. other lecture notes: 
    1. chris carroll's notes [🔗](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
    2. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
