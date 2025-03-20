@@ -45,15 +45,15 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 #### macroeconomics
 
 1. overview articles:
-   1. macroeconomist as scientist and engineers, mankiw (2006)
-   2. what do we know about macroeconomics that fisher and wicksell did not?, blanchard (2000)
-   3. revolution and evolution in twentieth-century macroeconomics, woodford (1999)
-   4. macroeconomics is still in its infancy, noha smith
+   1. macroeconomist as scientist and engineers, mankiw (2006) [🔗](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.29)
+   2. what do we know about macroeconomics that fisher and wicksell did not?, blanchard (2000) [🔗](https://www.nber.org/papers/w7550)
+   3. revolution and evolution in twentieth-century macroeconomics, woodford (1999) [🔗](https://www.columbia.edu/~mw2230/macro20C.pdf)
+   4. macroeconomics is still in its infancy, noha smith [🔗](https://www.noahpinion.blog/p/macroeconomics-is-still-in-its-infancy)
    5. what i learned in econ grad school, noha smith [pt. 1 [🔗](https://noahpinionblog.blogspot.com/2011/04/what-i-learned-in-econ-grad-school.html); pt. 2 [🔗](https://noahpinionblog.blogspot.com/2011/05/what-i-learned-in-econ-grad-school-part.html) ]
    6. bob lucas and his papers, john cochrane [🔗](https://johnhcochrane.blogspot.com/2023/05/bob-lucas-and-his-papers.html)
    7. macroeconomics: a reading list [🔗](https://blog.theleapjournal.org/2012/02/macroeconomics-reading-list.html#gsc.tab=0)
    8. macroeconomics after lucus, sargent (2024) [🔗](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2024/Sargent_paper.pdf) 
-   9. origins of [euler equation](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=8%20References-,History,studies%20of%20the%20tautochrone%20problem.) for dummies (including economists) [🔗](https://youtu.be/Q10_srZ-pbs?si=Uol9pOQjjTOC9omD)
+   9. origins of [euler equation](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=8%20References-,History,studies%20of%20the%20tautochrone%20problem.) for dummies (not economists) [🔗](https://youtu.be/Q10_srZ-pbs?si=Uol9pOQjjTOC9omD)
 2. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
 3. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
 4. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
@@ -72,7 +72,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949) 
    2. big ideas in macroeconomics, kartik athreya
  [🔗](https://mitpress.mit.edu/9780262528306/big-ideas-in-macroeconomics/) 
-   1. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
+   3. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
 
 #### measure theory
 
