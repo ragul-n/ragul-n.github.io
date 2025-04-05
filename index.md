@@ -91,11 +91,10 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 #### measure theory
 
 1. terry tao's  notes [🔗](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
-2. introduction to measure and integration by inder rana [iit bombay] [🔗](https://www.amazon.in/Introduction-Measure-Integration-Inder-Rana/dp/8173194300)
+2. measure theory and probability theory by krishna athreya and soumendra lahiri [🔗](https://link.springer.com/book/10.1007/978-0-387-35434-7)
 3. krishna jagannathan's probability foundations for electrical engineers [🔗](https://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) \
-4. vittal roa's lectures [🔗](https://www.youtube.com/playlist?list=PL5xeijzKJaIjO5tP5Gzrwhon_VxnWOBKa)
-5. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
-6. other standard textbook: royden, folland
+4. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
+5. other standard textbook: ash, billingsley
 
 #### differential equations
 
