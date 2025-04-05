@@ -52,7 +52,6 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    6. bob lucas and his papers, john cochrane [🔗](https://johnhcochrane.blogspot.com/2023/05/bob-lucas-and-his-papers.html)
    7. macroeconomics: a reading list [🔗](https://blog.theleapjournal.org/2012/02/macroeconomics-reading-list.html#gsc.tab=0)
    8. macroeconomics after lucus, sargent (2024) [🔗](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2024/Sargent_paper.pdf) 
-   9. origins of [euler equation](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=8%20References-,History,studies%20of%20the%20tautochrone%20problem.) for dummies (not economists) [🔗](https://youtu.be/Q10_srZ-pbs?si=Uol9pOQjjTOC9omD)
 2. semi-technical books: 
    1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949) 
    2. big ideas in macroeconomics, kartik athreya
