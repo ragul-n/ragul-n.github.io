@@ -12,7 +12,6 @@ layout: home
 4. macro musing by david beckworth [🔗](https://www.mercatus.org/macro-musings)
 5. capitalism and freedom in 21st century by jon hartley [🔗](https://www.capitalismandfreedom.com/)
 6. ft's economics show [🔗](https://www.ft.com/the-economics-show)
-7. the core report by govindraj ethiraj [🔗](https://www.youtube.com/@thecore_in)
 
 #### blogs
 tools: inoreader (rss reader), kill-the-newsletter.com (for converting newsletters to rss feeds)
@@ -45,8 +44,8 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 #### macroeconomics
 
 1. overview articles:
-   1. macroeconomist as scientist and engineers, mankiw (2006) [🔗](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.29)
-   2. what do we know about macroeconomics that fisher and wicksell did not?, blanchard (2000) [🔗](https://www.nber.org/papers/w7550)
+   1. what do we know about macroeconomics that fisher and wicksell did not?, blanchard (2000) [🔗](https://www.nber.org/papers/w7550)
+   2. macroeconomist as scientist and engineers, mankiw (2006) [🔗](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.29)
    3. revolution and evolution in twentieth-century macroeconomics, woodford (1999) [🔗](https://www.columbia.edu/~mw2230/macro20C.pdf)
    4. macroeconomics is still in its infancy, noha smith [🔗](https://www.noahpinion.blog/p/macroeconomics-is-still-in-its-infancy)
    5. what i learned in econ grad school, noha smith [pt. 1 [🔗](https://noahpinionblog.blogspot.com/2011/04/what-i-learned-in-econ-grad-school.html); pt. 2 [🔗](https://noahpinionblog.blogspot.com/2011/05/what-i-learned-in-econ-grad-school-part.html) ]
@@ -54,25 +53,40 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    7. macroeconomics: a reading list [🔗](https://blog.theleapjournal.org/2012/02/macroeconomics-reading-list.html#gsc.tab=0)
    8. macroeconomics after lucus, sargent (2024) [🔗](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2024/Sargent_paper.pdf) 
    9. origins of [euler equation](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation#:~:text=8%20References-,History,studies%20of%20the%20tautochrone%20problem.) for dummies (not economists) [🔗](https://youtu.be/Q10_srZ-pbs?si=Uol9pOQjjTOC9omD)
-2. non-technical books: 
+2. semi-technical books: 
    1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949) 
    2. big ideas in macroeconomics, kartik athreya
  [🔗](https://mitpress.mit.edu/9780262528306/big-ideas-in-macroeconomics/) 
-   3. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
+   1. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
 
-3. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
-4. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
-5. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
-6. heterogenous agent models: 
+1. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
+2. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
+3. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
+4. heterogenous agent models: 
    1. durdhal's adv. macro course [^druedahl] [🔗](https://sites.google.com/view/numeconcph-advmacrohet/home?authuser=)
    2. ch. 10, phdmacrobook  
    3.  ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
    4.  jesús fernández-villaverde notes [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
 
-6. other lecture notes: 
+5. other lecture notes: 
    1. chris carroll's notes [🔗](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
    2. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
    3. vivaldo mende's adv. macro notes  [🔗](https://sites.google.com/iscte-iul.pt/advancedmacroeconomics2/slides-readings/0-computation-introduction-to-julia?authuser=0)
+   
+#### deep learning 
+   1. dive into deep learning book [🔗](https://d2l.ai/index.html)
+   2. theory of deep learning book [🔗](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf)
+   3. theoretical foundations of deep learning, ankur moitra [🔗]
+   4. deep learning theory, matus telgarsky [🔗](https://mjt.cs.illinois.edu/dlt/)
+   5. deep learning architectures: a mathematical approach,  ovidiu calin [🔗](https://link.springer.com/book/10.1007/978-3-030-36721-3)
+
+
+#### reinforcement learning
+
+1. neuro-dynamic programming, bertsekas [🔗](https://web.mit.edu/jnt/www/ndp.html)
+2. foundations of rl, chi jin [🔗](https://sites.google.com/view/cjin/teaching/ece524)
+3. optimal control and rl at cmu [🔗](https://optimalcontrol.ri.cmu.edu/)
+4. intro to reinforcement learning by barto & sutton
 
 #### measure theory
 
@@ -90,12 +104,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 3. non-linear dynamics and chaos by steven strogatz [🔗](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering)
 4. [love affiers and differential equations](https://ai.stanford.edu/~rajatr/articles/SS_love_dEq.pdf) by steven strogatz
 
-#### reinforcement learning
 
-1. neuro-dynamic programming by bertsekas [🔗](https://web.mit.edu/jnt/www/ndp.html)
-2. chi jin's foundations of rl [🔗](https://sites.google.com/view/cjin/teaching/ece524)
-3. optimal control and rl at cmu [🔗](https://optimalcontrol.ri.cmu.edu/)
-4. intro to reinforcement learning by barto & sutton
 
 #### machine learning
 
@@ -109,23 +118,14 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 4. time series by hamilton
 
 #### youtube
-1. casual
-   1. vertasium
-   2. 3blue1brown
-   3. mentour pilot 
-   4. oversimplifed 
-   5. parithabangal [tamil]
-2. lectures
+1. math lectures
    1. steve brunton [🔗](https://www.youtube.com/@Eigensteve/playlists)
    2. jason bramburger [🔗](https://www.youtube.com/@jasonbramburger/playlists)
    3. the bright side of mathematics [🔗](https://www.youtube.com/@brightsideofmaths/playlists)
    4. mike, the mathematician [🔗](https://www.youtube.com/@mikethemathematician/playlists)
-
-#### microeconomics
-
-1. rubinstein's lecture notes
-2. the evolution of cooperation by robert axelrod
-3. https://ncase.me/trust/
+1. casual
+   1. vertasium
+   2. 3blue1brown
 
 ---
 
