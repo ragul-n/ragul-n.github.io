@@ -1,5 +1,7 @@
-### resources
-
+---
+layout: post
+title: resource
+---
 #### podcasts
 
 1. amit verma's seen and the unseen [🔗](https://seenunseen.in/)
