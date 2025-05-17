@@ -1,8 +1,7 @@
----
-layout: page
-title: resources
----
-#### podcasts
+## resources
+
+
+### podcasts
 
 1. amit verma's seen and the unseen [🔗](https://seenunseen.in/)
 2. struthi rajagopalan's ideas of india [🔗](https://www.mercatus.org/ideasofindia)
@@ -11,7 +10,7 @@ title: resources
 5. capitalism and freedom in 21st century by jon hartley [🔗](https://www.capitalismandfreedom.com/)
 6. ft's economics show [🔗](https://www.ft.com/the-economics-show)
 
-#### blogs
+### blogs
 
 tools: inoreader (rss reader), kill-the-newsletter.com (for converting newsletters to rss feeds)
 
@@ -40,7 +39,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    7. the leap blog [🔗](https://blog.theleapjournal.org/)
    8. the core newsletter [🔗](https://www.thecore.in/newsletters/thecorenewsletter)
 
-#### macroeconomics
+### macroeconomics
 
 1. overview articles:
 
@@ -73,7 +72,7 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    2. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
    3. vivaldo mende's adv. macro notes  [🔗](https://sites.google.com/iscte-iul.pt/advancedmacroeconomics2/slides-readings/0-computation-introduction-to-julia?authuser=0)
 
-#### deep learning
+### deep learning
 
 1. dive into deep learning book [🔗](https://d2l.ai/index.html)
 2. theory of deep learning book [🔗](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf)
@@ -81,14 +80,14 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 4. deep learning theory, matus telgarsky [🔗](https://mjt.cs.illinois.edu/dlt/)
 5. deep learning architectures: a mathematical approach,  ovidiu calin [🔗](https://link.springer.com/book/10.1007/978-3-030-36721-3)
 
-#### reinforcement learning
+### reinforcement learning
 
 1. neuro-dynamic programming, bertsekas [🔗](https://web.mit.edu/jnt/www/ndp.html)
 2. foundations of rl, chi jin [🔗](https://sites.google.com/view/cjin/teaching/ece524)
 3. optimal control and rl at cmu [🔗](https://optimalcontrol.ri.cmu.edu/)
 4. intro to reinforcement learning by barto & sutton
 
-#### measure theory
+### measure theory
 
 1. terry tao's  notes [🔗](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
 2. measure theory and probability theory by krishna athreya and soumendra lahiri [🔗](https://link.springer.com/book/10.1007/978-0-387-35434-7)
@@ -96,25 +95,25 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 4. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
 5. other standard textbook: ash, billingsley
 
-#### differential equations
+### differential equations
 
 1. mit opencourseware differential equations course[🔗](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
 2. steve brunton's youtube course [🔗](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
 3. non-linear dynamics and chaos by steven strogatz [🔗](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering)
 4. [love affiers and differential equations](https://ai.stanford.edu/~rajatr/articles/SS_love_dEq.pdf) by steven strogatz
 
-#### machine learning
+### machine learning
 
 1. andrew ng's lecture notes
 
-#### time series
+### time series
 
 1. john cochrane's time series for macroeconomists
 2. introduction to difference equations by saber elaydi
 3. applied time series by enders
 4. time series by hamilton
 
-#### youtube
+### youtube
 
 1. math lectures
    1. steve brunton [🔗](https://www.youtube.com/@Eigensteve/playlists)
@@ -125,14 +124,6 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    1. vertasium
    2. 3blue1brown
 
----
 
-quotes:
-
-1. “ideas shape the course of history.” - keynes
-2. “the difficulty lies not so much in developing new ideas as in escaping from old ones.” - keynes
-3. “once one starts to think about growth, it is hard to think about anything else” - lucas
-
----
 
 [^druedahl]: (lecture slides are available in course github repo)
