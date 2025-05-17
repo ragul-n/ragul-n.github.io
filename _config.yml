@@ -1,8 +1,8 @@
 # Site settings
 title: "ragul n"
 description: "ragul's textlog"
-baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: ""
+baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+url: "ragul-n.github.com"
 author: "ragul n"
 
 # Build settings
