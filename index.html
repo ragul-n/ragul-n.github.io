@@ -17,6 +17,10 @@ layout: default
 		</ul>
 	</section>
 	<section>
+		<!-- {% include resource.md %} -->
+		{% capture resource %}
 		{% include resource.md %}
+		{% endcapture %}
+		{{ resource | markdownify }}
 	</section>
 </div>
