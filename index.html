@@ -8,7 +8,7 @@ layout: default
 		{% include intro.html %}
 	</section>
 	<section>
-		<h4>recent posts</h4>
+		<h2>recent posts</h2>
 		<ul class="post-list">
 			{% for post in site.posts limit:5 %}
 			<li>
@@ -17,7 +17,7 @@ layout: default
 			{% endfor %}
 		</ul>
 	</section>
-	<hr>
+	<hr style="border: none; height: 1px; background-color: #aaa;">
 	<section>
 		<!-- {% include resource.md %} -->
 		<h2>resources</h2>
