@@ -6,7 +6,7 @@ author: raguln
 comment: false
 ---
 
-Here I'm deliberately committing the same crime by repeating,endorsing, and spreading everything Prof. Mahmudabad said verbatim in his Facebook post on May 8th, 2025.
+Here I'm deliberately committing the same crime by repeating, endorsing, and spreading everything Prof. Mahmudabad said verbatim in his Facebook post on May 8th, 2025.
 
 >Strategically India has actually begun a new phase in terms of collapsing distinction between military and terrorist (non-state actors) in Pakistan. In effect the response to any terrorist activity will invite a conventional response and so this puts the onus on the Pakistani military to make sure that it cannot hide any longer behind terrorists and non-state actors. In any case the Pak military has used militarised non-state actors to destabilise the region for far too long while also claiming to be victims on the international stage. It has also used the same actors– some of whom were targeted in the recent strikes– to foment sectarian tension in Pakistan. Operation Sindoor resets all received notions of Indo-Pak relationships as the response to terrorist attacks will be met with a military response and removes any semantic distinction between the two. Despite this collapse, care has been taken by the Indian armed forces to not target military or civilian installations or infrastructure so that there is no unnecessary escalation. The message is clear: if you don't deal with your terrorism problem then we will! The loss of civilian life is tragic on both sides and is the main reason why war should be avoided.
 >
