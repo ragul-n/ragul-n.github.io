@@ -1,5 +1,15 @@
 {
+    "vim.InsertModeKeyBindings": [
+        {
+            "before": ["k", "j"], 
+            "after": ["<Esc>"]
+        }
+    ],
+
+
     "[markdown]": {
         "editor.cursorSurroundingLines": 0
-    }
+    },
+
+    
 }

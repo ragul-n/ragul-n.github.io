@@ -8,11 +8,9 @@
 3. amit verma and ajay shah's everything is everything  [🔗](https://www.youtube.com/@amitvarma)
 4. macro musing by david beckworth [🔗](https://www.mercatus.org/macro-musings)
 5. capitalism and freedom in 21st century by jon hartley [🔗](https://www.capitalismandfreedom.com/)
-6. ft's economics show [🔗](https://www.ft.com/the-economics-show)
+
 
 ### blogs
-
-tools: inoreader (rss reader), kill-the-newsletter.com (for converting newsletters to rss feeds)
 
 1. economics
    1. paul krugman wonks out [🔗](https://paulkrugman.substack.com/)
@@ -37,7 +35,6 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    5. bloomberg's india edition with menaka doshi [🔗](https://www.bloomberg.com/account/newsletters/india-edition)
    6. ideas for india [🔗](https://www.ideasforindia.in/)
    7. the leap blog [🔗](https://blog.theleapjournal.org/)
-   8. the core newsletter [🔗](https://www.thecore.in/newsletters/thecorenewsletter)
 
 ### macroeconomics
 
@@ -51,22 +48,15 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
    6. bob lucas and his papers, john cochrane [🔗](https://johnhcochrane.blogspot.com/2023/05/bob-lucas-and-his-papers.html)
    7. macroeconomics: a reading list [🔗](https://blog.theleapjournal.org/2012/02/macroeconomics-reading-list.html#gsc.tab=0)
    8. macroeconomics after lucus, sargent (2024) [🔗](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2024/Sargent_paper.pdf)
-2. semi-technical books:
 
-   1. histroy of macroeconomics from keynes to lucus and beyond, michel de vroey [🔗](https://www.amazon.in/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949)
-   2. big ideas in macroeconomics, kartik athreya
-      [🔗](https://mitpress.mit.edu/9780262528306/big-ideas-in-macroeconomics/)
-   3. economics rules, dani rodrik [🔗](https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science)
-3. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
-4. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
-5. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
-6. heterogenous agent models:
-
-   1. durdhal's adv. macro course [^druedahl] [🔗](https://sites.google.com/view/numeconcph-advmacrohet/home?authuser=)
+2. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
+3. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
+4. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
+5. heterogenous agent models:
    2. ch. 10, phdmacrobook
    3. ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
    4. jesús fernández-villaverde notes [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
-7. other lecture notes:
+6. other lecture notes:
 
    1. chris carroll's notes [🔗](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
    2. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
@@ -93,7 +83,6 @@ tools: inoreader (rss reader), kill-the-newsletter.com (for converting newslette
 2. measure theory and probability theory by krishna athreya and soumendra lahiri [🔗](https://link.springer.com/book/10.1007/978-0-387-35434-7)
 3. krishna jagannathan's probability foundations for electrical engineers [🔗](https://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) \
 4. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
-5. other standard textbook: ash, billingsley
 
 ### differential equations
 
