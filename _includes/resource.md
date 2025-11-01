@@ -17,24 +17,26 @@
    2. noahpinion [🔗](https://www.noahpinion.blog/)
    3. marginal revolution [🔗](https://marginalrevolution.com/)
    4. apricitas economics [🔗](https://www.apricitas.io/)
-   5. best of econtwitter [🔗](https://www.bestofecontwitter.com/)
-   6. greg mankiw's blog [🔗](https://gregmankiw.blogspot.com/)
-   7. the central bank watcher [🔗](https://gianlucabenigno.substack.com/)
-   8. the grumpy economist by john cochrane [🔗](https://johnhcochrane.blogspot.com/)
-   9. the great gender divergence [🔗](https://www.ggd.world/)
+   5. Liberty Street Economics [🔗](https://libertystreeteconomics.newyorkfed.org/)
+   6. best of econtwitter [🔗](https://www.bestofecontwitter.com/)
+   7. greg mankiw's blog [🔗](https://gregmankiw.blogspot.com/)
+   8. the central bank watcher [🔗](https://gianlucabenigno.substack.com/)
+   9. the grumpy economist by john cochrane [🔗](https://johnhcochrane.blogspot.com/)
+   10. the great gender divergence [🔗](https://www.ggd.world/)
+   11. Economics and Finacne|Project Syndicate [🔗](https://www.project-syndicate.org/section/economics)
 2. news
-   1. ft's newsletters [🔗](https://www.ft.com/newsletters)
-   2. reuters' newsletters [🔗](https://www.reuters.com/newsletters/)
-   3. bloomberg's newsletters [🔗](https://www.bloomberg.com/account/newsletters)
-   4. the economist's newsletters [🔗](https://www.economist.com/newsletters)
+   1. ft's Alphaville [🔗](https://www.ft.com/alphaville)
+   2. Currency Througts [🔗](https://currencythoughts.com/)
+   3. ft's newsletters [🔗](https://www.ft.com/newsletters)
+   4. bloomberg's newsletters [🔗](https://www.bloomberg.com/account/newsletters)
+
 3. india
    1. anticipating the unintended [🔗](https://publicpolicy.substack.com/)
    2. urbanomics [🔗](https://gulzar05.blogspot.com/)
-   3. mostly economics [🔗](https://mostlyeconomics.wordpress.com/)
-   4. ft's india business briefing [🔗](https://www.ft.com/india-business-briefing)
-   5. bloomberg's india edition with menaka doshi [🔗](https://www.bloomberg.com/account/newsletters/india-edition)
-   6. ideas for india [🔗](https://www.ideasforindia.in/)
-   7. the leap blog [🔗](https://blog.theleapjournal.org/)
+   3. ideas for india [🔗](https://www.ideasforindia.in/)
+   4. mostly economics [🔗](https://mostlyeconomics.wordpress.com/)
+   5. ft's india business briefing [🔗](https://www.ft.com/india-business-briefing)
+   6. the leap blog [🔗](https://blog.theleapjournal.org/)
 
 ### macroeconomics
 
@@ -49,18 +51,56 @@
    7. macroeconomics: a reading list [🔗](https://blog.theleapjournal.org/2012/02/macroeconomics-reading-list.html#gsc.tab=0)
    8. macroeconomics after lucus, sargent (2024) [🔗](https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2024/Sargent_paper.pdf)
 
-2. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
-3. recursive macro theory: stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
-4. monetary policy: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
-5. heterogenous agent models:
-   2. ch. 10, phdmacrobook
-   3. ben moll's notes [🔗](https://benjaminmoll.com/lectures/)
-   4. jesús fernández-villaverde notes [🔗](https://www.sas.upenn.edu/~jesusfv/Continuous_Time_3.pdf)
-6. other lecture notes:
+2. core textbooks: phdmacrobook [🔗](https://phdmacrobook.org), acemoglue [🔗](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth), stocky & lucus [🔗](https://www.amazon.in/Recursive-Methods-Economic-Dynamics-Stokey-ebook/dp/B00J8CVOHO), sargent & ljungqvist [🔗](https://www.amazon.in/Recursive-Macroeconomic-Theory-MIT-Press/dp/0262038668)
+3. new keynsian: gali [🔗](https://www.amazon.in/Monetary-Policy-Inflation-Business-Cycle/dp/0691133166), woodford [🔗](https://press.princeton.edu/books/hardcover/9780691010496/interest-and-prices)
 
+4. other lecture notes:
    1. chris carroll's notes [🔗](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/IndexAll/Index/)
-   2. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-   3. vivaldo mende's adv. macro notes  [🔗](https://sites.google.com/iscte-iul.pt/advancedmacroeconomics2/slides-readings/0-computation-introduction-to-julia?authuser=0)
+   2. vv chari's notes [🔗](https://sites.google.com/umn.edu/vvchari/teaching) 
+   3. jesús fernández-villaverde's lecture slides [🔗](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+
+### measure theory
+
+1. terry tao's  notes [🔗](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
+2. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
+3. measure theory and probability theory by krishna athreya and soumendra lahiri [🔗](https://link.springer.com/book/10.1007/978-0-387-35434-7)
+4. krishna jagannathan's probability foundations for electrical engineers [🔗](https://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) \
+
+
+### functional anlaysis
+1. notes on functional analysis by rajendra bhatia [🔗](https://link.springer.com/book/10.1007/978-93-86279-45-3)
+2. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
+3. functional analysis for probability and stochastic processes by adam bobrowski [🔗](https://www.cambridge.org/core/books/functional-analysis-for-probability-and-stochastic-processes/4ACA91681A2CDE2E22F83F3257CD5106)
+
+### measure-theoritic probability & stochastic processes
+1. probability and stochastic by erhan cinlar [🔗](https://link.springer.com/book/10.1007/978-0-387-87859-1)
+2. measure, probability and functional analysis by hannah geiss & stefan geiss [🔗](https://www.springerprofessional.de/en/measure-probability-and-functional-analysis/50794520)
+3. probability with martingales by david williams [🔗](https://www.cambridge.org/highereducation/books/probability-with-martingales/B4CFCE0D08930FB46C6E93E775503926)
+4. measure theory, probability, and stochastic processes by jean-françois le gall [🔗](https://link.springer.com/book/10.1007/978-3-031-14205-5)
+
+### stochastic calculus
+1. stochastic integration and differential equations by philip protter [🔗](https://link.springer.com/book/10.1007/978-3-662-10061-5)
+2. introduction to stocahstic calculus with application by fima klebaner [🔗](https://www.amazon.in/Introduction-Stochastic-Calculus-Applications-Klebaner/dp/1848168322)
+3. Brownian Motion and stochastic calculus by karatzas & shreve
+4. levy processes and stochastic calculus b david applebaum [🔗](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11)
+5. intro to stochastic integration by hui-hsiung kuo [🔗](https://link.springer.com/book/10.1007/0-387-31057-6)
+6. stochastic calculus and financial applications by michael steele
+
+
+### differential equations
+
+1. mit opencourseware differential equations course[🔗](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
+2. steve brunton's youtube course [🔗](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
+3. non-linear dynamics and chaos by steven strogatz [🔗](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering)
+4. [love affiers and differential equations](https://ai.stanford.edu/~rajatr/articles/SS_love_dEq.pdf) by steven strogatz
+
+
+### time series
+
+1. john cochrane's time series for macroeconomists
+2. introduction to difference equations by saber elaydi
+3. applied time series by enders
+4. time series by hamilton
 
 ### deep learning
 
@@ -77,30 +117,10 @@
 3. optimal control and rl at cmu [🔗](https://optimalcontrol.ri.cmu.edu/)
 4. intro to reinforcement learning by barto & sutton
 
-### measure theory
-
-1. terry tao's  notes [🔗](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf)
-2. measure theory and probability theory by krishna athreya and soumendra lahiri [🔗](https://link.springer.com/book/10.1007/978-0-387-35434-7)
-3. krishna jagannathan's probability foundations for electrical engineers [🔗](https://www.ee.iitm.ac.in/~krishnaj/EE5110.htm) \
-4. measure, integration & real analysis by axler [🔗](https://measure.axler.net/)
-
-### differential equations
-
-1. mit opencourseware differential equations course[🔗](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
-2. steve brunton's youtube course [🔗](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
-3. non-linear dynamics and chaos by steven strogatz [🔗](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering)
-4. [love affiers and differential equations](https://ai.stanford.edu/~rajatr/articles/SS_love_dEq.pdf) by steven strogatz
 
 ### machine learning
 
 1. andrew ng's lecture notes
-
-### time series
-
-1. john cochrane's time series for macroeconomists
-2. introduction to difference equations by saber elaydi
-3. applied time series by enders
-4. time series by hamilton
 
 ### youtube
 
@@ -113,6 +133,3 @@
    1. vertasium
    2. 3blue1brown
 
-
-
-[^druedahl]: (lecture slides are available in course github repo)
