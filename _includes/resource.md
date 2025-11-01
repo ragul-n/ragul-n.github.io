@@ -20,10 +20,10 @@
    5. Liberty Street Economics [🔗](https://libertystreeteconomics.newyorkfed.org/)
    6. best of econtwitter [🔗](https://www.bestofecontwitter.com/)
    7. greg mankiw's blog [🔗](https://gregmankiw.blogspot.com/)
-   8. the central bank watcher [🔗](https://gianlucabenigno.substack.com/)
+   8. Economics and Finacne at Project Syndicate [🔗](https://www.project-syndicate.org/section/economics)
    9. the grumpy economist by john cochrane [🔗](https://johnhcochrane.blogspot.com/)
    10. the great gender divergence [🔗](https://www.ggd.world/)
-   11. Economics and Finacne|Project Syndicate [🔗](https://www.project-syndicate.org/section/economics)
+   11. the central bank watcher [🔗](https://gianlucabenigno.substack.com/)
 2. news
    1. ft's Alphaville [🔗](https://www.ft.com/alphaville)
    2. Currency Througts [🔗](https://currencythoughts.com/)
